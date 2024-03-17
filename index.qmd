@@ -1,6 +1,6 @@
 ---
 title: Stefan Schreiber
-image: about_headshot.jpg
+image: "about_headshot.jpg"
 toc: false
 #subtitle:"1 Million Tree Challenge"
 about:

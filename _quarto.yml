@@ -11,8 +11,8 @@ website:
         text: Home
       - projects.qmd
       - posts.qmd
-    logo: images/favicon.png
-  favicon: images/favicon.png
+#    logo: images/favicon.png
+ # favicon: images/favicon.png
 
 format:
   html:
