@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+toc: false
 ---
 
 ## The English Channel
