@@ -19,6 +19,9 @@ about:
       - icon: facebook
         href: https://www.facebook.com/profile.php?id=61556638335001
         text: Facebook
+      - icon: youtube
+        href: https://www.youtube.com/@carbs4trees
+        text: YouTube  
       - icon: linkedin
         href: https://www.linkedin.com/in/sgschreiber/
         text: LinkedIn
