@@ -19,7 +19,7 @@ format:
     theme: simplex
     css: styles.css
     toc: false
-    page-layout: article
+    page-layout: full
     email-obfuscation: javascript
 
 editor: visual

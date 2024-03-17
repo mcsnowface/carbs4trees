@@ -26,9 +26,9 @@ about:
 
 <!-- ![](images/envirostats_logo_transparent.png){fig-align="center" width="50%"} -->
 
-**Hello, I'm Stefan – Nice to meet you!**
+## Hello, I'm Stefan – Nice to meet you!
 
-I'm a husband, father of 3, biologist, and endurance athlete from Edmonton, Alberta, Canada. In 2024 at the age of 44 years old, I established my ultimate life goal of raising funds to plant 1 million trees. My mission is to achieve this goal through challenging ultra-endurance events.
+I'm a husband, father of 3, biologist, and endurance athlete from Edmonton, Alberta, Canada. In 2024 at the age of 44 years old, I established **my ultimate life goal of raising funds to plant 1 million trees**. My mission is to achieve this goal through challenging ultra-endurance events.
 
 I've completed numerous Ironman Triathlons (9:23:51), including the Ironman World Championships in Kona, Hawaii (10:06:53), ultramarathons of up to 100 miles (19:56:50), and also hold the course record in the 100 km Lost Soul Ultra Marathon in Lethbridge, Alberta, Canada (10:07:00).
 
