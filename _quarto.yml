@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Burn Carbs, Plant 1 Million Trees"
@@ -21,7 +20,5 @@ format:
     toc: false
     page-layout: full
     email-obfuscation: javascript
-
-editor: visual
 
 
