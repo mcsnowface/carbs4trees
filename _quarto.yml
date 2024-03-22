@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Burn Carbs, Plant 1 Million Trees"
+  title: "Burn Carbs, Plant Trees!"
   page-footer: "Copyright 2024, Stefan Schreiber" 
   navbar:
     right:
@@ -11,7 +11,7 @@ website:
       - projects.qmd
       - posts.qmd
 #    logo: images/favicon.png
- # favicon: images/favicon.png
+#  favicon: images/favicon.png
 
 format:
   html:
