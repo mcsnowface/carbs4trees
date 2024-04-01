@@ -37,4 +37,5 @@ I've completed numerous Ironman Triathlons (9:23:51), including the Ironman Worl
 
 Eager to know more about my journey? [Don't hesitate to reach out](mailto:carbs4trees@gmail.com)!
 
-<!-- ![](images/bitmap.png){fig-align="center" width="45%"} -->
+
+<!-- ![](images/logo2.png){fig-align="center" width="45%"} -->

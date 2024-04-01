@@ -10,8 +10,8 @@ website:
         text: Home
       - projects.qmd
       - posts.qmd
-#    logo: images/favicon.png
-#  favicon: images/favicon.png
+#    logo: images/logo2.png
+  favicon: images/favicon6.png
 
 format:
   html:
