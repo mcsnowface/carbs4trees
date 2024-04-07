@@ -11,4 +11,6 @@ categories: [carbs4trees, swimming, english-channel] # self-defined categories
 draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-Starting something new is always difficult. 
+Starting something new is always difficult. Raising a family is very difficult. Staying mentally healthy is extremely difficult. Mastering life, especially during the years when it matters most, is probably the most difficult.
+
+Why am I telling you all this? Isn't this website about crazy endurance events? Yes it is. Life is by far the craziest endurance event of all.
