@@ -1,9 +1,9 @@
 ---
-title: "Let's get started!"
+title: "It has to start somewhere - so here it goes!"
 description: "'We have two lives, and the second begins when we realize we only have one.' -Confucius"
 author:
   - name: Stefan Schreiber
-date: 03-17-2024
+date: 04-06-2024
 categories: [carbs4trees, swimming, english-channel] # self-defined categories
 #citation: 
   #url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
@@ -11,4 +11,4 @@ categories: [carbs4trees, swimming, english-channel] # self-defined categories
 draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-This is a test
+Starting something new is always difficult. 
