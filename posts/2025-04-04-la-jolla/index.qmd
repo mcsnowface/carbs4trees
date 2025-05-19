@@ -8,7 +8,7 @@ categories: [carbs4trees, swimming, english-channel, la-jolla] # self-defined ca
 #citation: 
 #url: https://carbs4trees.ca/posts/2024-12-14-chasing-the-channel/ 
 image: la-jolla.jpg
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 ## Befriending the Cold: My 6-Hour English Channel Qualifying Swim in La Jolla
