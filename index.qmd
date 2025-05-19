@@ -10,9 +10,6 @@ about:
       - icon: strava
         href: https://www.strava.com/athletes/2224756
         text: Strava
-      - icon: twitter
-        href: https://twitter.com/carbs4trees
-        text: X
       - icon: instagram
         href: https://www.instagram.com/carbs4trees/
         text: Instagram

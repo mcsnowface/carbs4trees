@@ -1,0 +1,35 @@
+---
+title: "La Jolla: A Cold Water Swimming Adventure"
+description: "'Just keep swimming' -Dory (Finding Nemo)"
+author:
+  - name: Stefan Schreiber
+date: 04-04-2025
+categories: [carbs4trees, swimming, english-channel, la-jolla] # self-defined categories
+#citation: 
+#url: https://carbs4trees.ca/posts/2024-12-14-chasing-the-channel/ 
+image: la-jolla.jpg
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Befriending the Cold: My 6-Hour English Channel Qualifying Swim in La Jolla
+Last week, I had the incredible opportunity to participate in a cold water swimming training camp in La Jolla, California. This wasn’t just about checking off the required six hour qualifying swim for my upcoming English Channel attempt; it was an immersion into the world of marathon swimming alongside an inspiring community of like-minded athletes!
+
+The marathon swimming community is truly something special, welcoming, encouraging, and filled with people who genuinely want to see each other succeed. Huge thanks to [Dan Simonelli](https://openwaterswimacademy.com/) and [Jeff Rake](https://www.iswim4.org/blog/jeff-rake-our-founder) for organizing the camp and creating an environment where swimmers of all levels could push their limits and learn from one another. 
+
+I arrived in La Jolla on Wednesday (March 26, 2025) and stayed until Sunday, with the six hour qualifying swim scheduled for Saturday morning. Jeff and Rachael picked me up from the airport in San Diego. Coming from Edmonton, I felt like I was entering a tropical paradise! Jeff handed me a bottle of water right away, along with one of his homemade Shark Repellent cereal bars. DELICIOUS! The perfect size and extremely yummy! We then waited for another camp participant from Washington D.C., Derek, who turned out to be my roommate for the camp and my sunscreen-apply-on-the-back buddy :). If you’ve ever swum under the sun, you know how important that is! Throughout the camp, we swam twice a day in the open ocean, often sharing the water with curious sea lions and navigating through some rough conditions.
+
+While I enjoyed all the swimming and chatting leading up to the long Saturday swim, I have to admit that this six hour swim was weighing heavily on my mind. Last year, I went to Dover in June to test the waters, literally, to see if I could swim for six hours in the Dover Harbour. I trained with the Dover Channel Training Group, another wonderful and welcoming group of open water swimmers. However, it turned out I was only able to build up to a 4 hour swim because I was shivering and way too cold. At that point, I really felt deflated, wondering if I might not be cut out for this sport.
+
+And then, the big day came. We started at 5:30 a.m. toes in the water (TITW) in complete darkness, adding an extra layer of challenge to an already difficult task. The first hour was quite the challenge. The cold took over my thoughts, I shivered a lot, and doubt crept in. I seriously considered quitting. But then Carol, an experienced marathon swimmer, encouraged me to do a few sprints with her. That simple shift in focus made all the difference. As we picked up the pace, my mind let go of the cold, and my body slowly started to accept it. It never stopped being cold, but swimming next to my awesome kayaker, Summer, who was a steady presence throughout the swim and made sure I had feeds every 30 minutes, helped carry me through to the finish.
+
+This experience was more than just a physical test; it was a lesson in resilience, in accepting discomfort rather than fighting it. It reinforced my confidence for the English Channel, which is now just two months away. If all goes well with the weather, my crossing will take place in the first week of June.
+
+For now, my training remains focused on one hour speed sessions to build efficiency, combined with long back to back swims on Saturdays and Sundays to replicate endurance fatigue. I’ve now built up to 5 hour and 6 hour back to back swims on weekends without too much discomfort afterward. This coming weekend, I’ll attempt a 6 hour/6 hour back to back swim to keep pushing the envelope. As spring progresses, I’m eagerly waiting for the lakes to thaw so I can get back into even colder open water.
+
+On the fundraising front, things are going great! We’ve raised over $1,600 CAD for tree planting with Project Forest and the Siksika Nation, and I’m so grateful for everyone who has contributed. This journey is about more than just swimming, it’s also about giving back. It’s amazing to see such support.
+
+With each passing week, the Channel swim feels more real. There’s still plenty of hard work ahead, but I’m feeling stronger, more prepared, and more determined than ever.
+
+Thanks for following along—more updates to come soon!
+
+For more frequent updates follow me on [Strava](https://www.strava.com/athletes/2224756) and [Instagram](https://www.instagram.com/carbs4trees/).
