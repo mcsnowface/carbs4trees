@@ -1,0 +1,57 @@
+---
+title: "The Attempt - My First Shot at the English Channel"
+description: "'Failure is simply the opportunity to begin again, this time more intelligently.' - Henry Ford"
+
+author:
+  - name: Stefan Schreiber
+date: 07-15-2025
+categories: [carbs4trees, swimming, english-channel, failure] # self-defined categories
+#citation: 
+#url: https://carbs4trees.ca/posts/2024-12-14-chasing-the-channel/ 
+image: english_channel_attempt.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## The Journey Has to Start Somewhere - My English Channel Experience
+
+End of May, I traveled to Dover with my wife and our three kids to finally take on the English Channel. My brother, his wife, and their daughter also came to support. The plan was for my wife and brother to be my official crew during the swim.
+
+But, as often happens with Channel swims, things didn’t go exactly as planned.
+
+The weather was unstable, and the skipper contacted me to ask if I’d be willing to swim a day earlier than my scheduled seven-day window. The problem was, my brother wasn’t in Dover yet; we had timed his arrival to match the window, not anything before it. And because of ferry schedules, he couldn’t get there any sooner.
+
+So we had to improvise. In the end, my wife and I left at 3 a.m. to meet the boat while the kids were still asleep (our oldest is 12 and has looked after his siblings before). My brother arrived at 8 a.m. and stayed with them for the rest of the day. Not ideal, but it worked.
+I also want to say how grateful I am to my wife, not only for helping pull off the every-day logistics, but for supporting me through months of preparation, and being right there during the attempt to manage my feeds and keep everything on track. Without her support I wouldn't even be Dover in the first place.
+
+That morning on June 2nd 2025, we went on the boat and  headed out to Samphire Hoe, where Channel swims officially begin. The waves were rough for my taste. The skipper told me there was a chance I wouldn’t be able to start at all due to the conditions. But when we got there, we saw three other boats with two relay teams and one solo swimmer in a wetsuit. Eventually, he gave me the green light.
+
+I started swimming just after 4 a.m. The first few hours were difficult. I was on the right side of the boat, and with the waves coming from the right, I had to breathe to my left almost the whole time—which isn’t my natural side. I swallowed quite a bit of seawater, and feeding was tricky.
+
+But surprisingly, the cold, which had been my biggest worry, was manageable. The water was only 13.4°C, but I was handling it well.
+
+However, after about eight hours, the skipper made the call to pull me from the water. He felt I wasn’t making enough progress, and while I was tired, I didn’t feel completely done. But the skipper’s word is final. As it turned out, no other swims went ahead during my original window. That early chance had been my only shot.
+
+It was disappointing. I had trained hard, prepared as best as I could, and put a lot of energy into this. It took me about four weeks to really process the loss.
+
+Despite the scramble, we also had a wonderful time exploring the area with our families and making memories. We visited Dover Castle, walked the White Cliffs of Dover, explored Deal, made the walk from Dover to Folkestone, and checked out Shakespeare Cliff. Spending time outdoors with our families helped us regroup and enjoy the trip despite how things had turned out in the water.
+
+Looking back, I realize that when I first booked the early June slot, I hadn’t fully thought through the challenges. In Alberta, the lakes stay frozen until April, and the water remains very cold through May. This meant that most of my training was in the pool, with only a few sessions in open water before the attempt.
+
+But as Captain Matthew Webb, the first swimmer to ever cross the English Channel, said:
+
+> “Nothing great is easy.”
+
+And I’m not done yet.
+
+I’ve booked another Channel swim for July 2027. And before that, I plan to swim the Catalina Channel in September 2026.
+
+So stay tuned. The goal is still the same.
+Stay focused, keep showing up, and push toward whatever you’re chasing.
+Thank you everyone for your support!
+
+Stefan
+
+
+For more frequent updates follow me on [Strava](https://www.strava.com/athletes/2224756) and [Instagram](https://www.instagram.com/carbs4trees/).
+
+![St Margaret's at Cliffe, where Ian Fleming wrote James Bond.](st_margaret.jpg){width=80%,fig-align="left"}
